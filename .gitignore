@@ -1,0 +1,4 @@
+sfdx-cli-*
+dreamhouse-sfdx/*
+!dreamhouse-sfdx/force-app
+!dreamhouse-sfdx/dx
